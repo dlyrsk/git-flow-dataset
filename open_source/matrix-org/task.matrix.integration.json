@@ -1,0 +1,46 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{
+				"owner": "matrix-org",
+				"repo": "matrix-appservice-discord"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "matrix-appservice-irc"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "go-neb"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "Matrix-NEB"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "matrix-hookshot"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "matrix-appservice-slack"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "matrix-ircd"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "purple-matrix"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "matrix-bifrost"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "matrix-appservice-verto"
+			}
+		]
+	}
+}

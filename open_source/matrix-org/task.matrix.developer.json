@@ -1,0 +1,46 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{
+				"owner": "matrix-org",
+				"repo": "netlify-pr-preview"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "meshsim"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "matrix-federation-tester"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "sytest"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "complement"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "fed-tester-ui"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "tardis"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "voip-tester"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "patience"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "sonarcloud-workflow-action"
+			}
+		]
+	}
+}

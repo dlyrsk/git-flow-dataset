@@ -1,0 +1,11 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			
+			{
+				"owner": "go-gitea",
+				"repo": ".*"
+			}
+		]
+	}
+}

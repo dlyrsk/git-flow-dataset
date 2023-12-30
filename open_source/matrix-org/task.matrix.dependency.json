@@ -1,0 +1,22 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{
+				"owner": "matrix-org",
+				"repo": "matrix-synapse-ldap3"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "matrix-python-common"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "olm"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "gomatrixserverlib"
+			}
+		]
+	}
+}

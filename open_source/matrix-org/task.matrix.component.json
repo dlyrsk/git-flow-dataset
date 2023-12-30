@@ -1,0 +1,46 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{
+				"owner": "matrix-org",
+				"repo": "matrix.to"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "pinecone"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "sydent"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "sliding-sync"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "sygnal"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "matrix-authentication-service"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "mjolnir"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "rageshake"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "seshat"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "coap-proxy"
+			}
+		]
+	}
+}

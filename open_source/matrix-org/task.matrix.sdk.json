@@ -1,0 +1,46 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{
+				"owner": "matrix-org",
+				"repo": "matrix-js-sdk"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "matrix-react-sdk"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "matrix-rust-sdk"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "matrix-ios-sdk"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "matrix-android-sdk"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "matrix-android-sdk2"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "matrix-python-sdk"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "matrix-widget-api"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "matrix-rust-sdk-crypto-wasm"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "matrix-react-sdk-module-api"
+			}
+		]
+	}
+}

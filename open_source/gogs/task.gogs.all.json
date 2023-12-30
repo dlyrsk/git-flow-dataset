@@ -1,0 +1,11 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			
+			{
+				"owner": "gogs",
+				"repo": ".*"
+			}
+		]
+	}
+}

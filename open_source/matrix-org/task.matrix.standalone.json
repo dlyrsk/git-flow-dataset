@@ -1,0 +1,26 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{
+				"owner": "matrix-org",
+				"repo": "thirdroom"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "matrix-rich-text-editor"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "rust-opa-wasm"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "gomatrix"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "pantalaimon"
+			}
+		]
+	}
+}

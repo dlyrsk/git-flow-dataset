@@ -1,0 +1,14 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{
+			"owner": "matrix-org",
+			"repo": "synapse-s3-storage-provider"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "matrix-appservice-bridge"
+			}
+		]
+	}
+}

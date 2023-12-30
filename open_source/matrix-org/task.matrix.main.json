@@ -1,0 +1,14 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{
+			"owner": "matrix-org",
+			"repo": "synapse"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "dendrite"
+			}
+		]
+	}
+}

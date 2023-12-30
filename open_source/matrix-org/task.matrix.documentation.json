@@ -1,0 +1,18 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{
+				"owner": "matrix-org",
+				"repo": "matrix-spec-proposals"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "matrix.org"
+			},
+			{
+				"owner": "matrix-org",
+				"repo": "matrix-spec"
+			}
+		]
+	}
+}
