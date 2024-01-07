@@ -1,0 +1,13 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{"owner": "owncloud", "repo": "core"},
+			{"owner": "owncloud", "repo": "android"},
+			{"owner": "owncloud", "repo": "client"},
+			{"owner": "owncloud", "repo": "ocis"},
+			{"owner": "owncloud", "repo": "ios-legacy"},
+			{"owner": "owncloud", "repo": "web"},
+			{"owner": "owncloud", "repo": "ios-app"}
+		]
+	}
+}

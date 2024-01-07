@@ -1,0 +1,11 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{"owner": "nextcloud", "repo": "server"},
+			{"owner": "nextcloud", "repo": "android"},
+			{"owner": "nextcloud", "repo": "ios"},
+			{"owner": "nextcloud", "repo": "desktop"},
+			{"owner": "nextcloud", "repo": "spreed"}
+		]
+	}
+}

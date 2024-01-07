@@ -1,0 +1,17 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			[
+				{"owner": "apache", "repo": "logging-log4j2"},
+				{"owner": "apache", "repo": "logging-log4cxx"},
+				{"owner": "apache", "repo": "logging-log4j-scala"},
+				{"owner": "apache", "repo": "logging-log4j-audit"},
+				{"owner": "apache", "repo": "logging-log4j-kotlin"},
+				{"owner": "apache", "repo": "logging-log4net"},
+				{"owner": "apache", "repo": "logging-log4j1"},
+				{"owner": "apache", "repo": "logging-chainsaw"},
+				{"owner": "apache", "repo": "flume"}
+			]
+		]
+	}
+}
