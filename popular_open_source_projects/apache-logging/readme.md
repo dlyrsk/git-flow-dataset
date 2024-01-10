@@ -4,6 +4,8 @@
 
 ### Main Repo List
 
+- [X] Collected
+
 https://github.com/apache/logging-log4j2
 
 https://github.com/apache/logging-log4cxx

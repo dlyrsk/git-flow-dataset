@@ -4,6 +4,8 @@
 
 ### Main Repo List
 
+- [ ] Collected
+
 https://github.com/owncloud/core
 
 https://github.com/owncloud/android
@@ -19,6 +21,8 @@ https://github.com/owncloud/web
 https://github.com/owncloud/ios-app
 
 ### Plugin Repo List
+
+- [ ] Collected
 
 https://github.com/owncloud/music
 
@@ -42,6 +46,8 @@ https://github.com/owncloud/files_videoplayer
 
 ### Library Repo List
 
+- [ ] Collected
+
 https://github.com/owncloud/pyocclient
 
 https://github.com/owncloud/android-library
@@ -62,16 +68,22 @@ https://github.com/owncloud/owncloud-design-system
 
 ### Standalone App Repo List
 
+- [ ] Collected
+
 https://github.com/owncloud/notes-iOS-App
 
 https://github.com/owncloud/news-iOS-App
 
 ### Developer Repo List
 
+- [ ] Collected
+
 https://github.com/owncloud/administration
 
 
 ### Documentation
+
+- [ ] Collected
 
 https://github.com/owncloud/docs
 

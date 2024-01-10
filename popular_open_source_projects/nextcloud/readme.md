@@ -4,6 +4,8 @@
 
 ### Main Repo List
 
+- [X] Collected
+
 https://github.com/nextcloud/server
 Nextcloud server
 
@@ -21,6 +23,8 @@ Nextcloud Talk – chat, video & audio calls for Nextcloud
 
 ### Deployment Repo List
 
+- [ ] Collected
+
 https://github.com/nextcloud/all-in-one
 The official Nextcloud installation method
 
@@ -34,6 +38,8 @@ https://github.com/nextcloud/vm
 The Nextcloud VM (virtual machine appliance), Home/SME Server and scripts for RPi (4).
 
 ### Plugin Repo List
+
+- [ ] Collected
 
 https://github.com/nextcloud/deck
 Deck is a kanban style organization tool aimed at personal planning and project organization for teams integrated with Nextcloud.
@@ -89,6 +95,8 @@ https://github.com/nextcloud/registration
 
 ### Library Repo List
 
+- [ ] Collected
+
 https://github.com/nextcloud/twofactor_totp
 
 https://github.com/nextcloud/end_to_end_encryption
@@ -100,6 +108,8 @@ https://github.com/nextcloud/fulltextsearch
 https://github.com/nextcloud/neon
 
 ### Standalone App Repo List
+
+- [ ] Collected
 
 https://github.com/nextcloud/news-android
 
@@ -115,5 +125,7 @@ https://github.com/nextcloud/talk-desktop
 
 
 ### Documentation
+
+- [ ] Collected
 
 https://github.com/nextcloud/documentation

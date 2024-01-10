@@ -4,10 +4,14 @@
 
 ### Main Repo List
 
+- [ ] Collected
+
 https://github.com/JabRef/jabref
 Graphical Java application for managing BibTeX and biblatex (.bib) databases
 
 ### Tools Repo List
+
+- [ ] Collected
 
 https://github.com/JabRef/abbrv.jabref.org
 A repository of abbreviations for references, e.g., for conferences, journals, institutes, etc. 
@@ -31,6 +35,8 @@ https://github.com/JabRef/EndNode-JabRef-filters
 https://github.com/JabRef/JabRef4Word
 
 ### Documentation Repo List
+
+- [ ] Collected
 
 https://github.com/JabRef/user-documentation
 User documentation of JabRef 

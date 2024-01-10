@@ -4,10 +4,14 @@
 
 ### Main Repo List
 
+- [ ] Collected
+
 https://github.com/JetBrains/kotlin
 The Kotlin Programming Language.
 
 ### Library Repo List
+
+- [ ] Collected
 
 https://github.com/JetBrains/Exposed
 Exposed is a lightweight SQL library on top of JDBC driver for Kotlin language.
@@ -36,6 +40,8 @@ Kotlin/Native infrastructure
 
 
 ### Tools Repo List
+
+- [ ] Collected
 
 https://github.com/JetBrains/kotlin-compiler-server
 A REST server for compiling and executing Kotlin code. The server provides the API for Kotlin Playground library.
@@ -66,6 +72,8 @@ Structural Search support for Kotlin
 
 ### Example Repo List
 
+- [ ] Collected
+
 https://github.com/JetBrains/jpa-buddy-kotlin-entities
 This repository shows how to declare Hibernate entities using Kotlin
 
@@ -73,6 +81,8 @@ https://github.com/JetBrains/kotlin-js-demo-1.3.50
 Kotlin/JS with dukat and Type Script
 
 ### Documentation Repo List
+
+- [ ] Collected
 
 https://github.com/JetBrains/kotlin-web-site
 The Kotlin programming language website
@@ -85,6 +95,8 @@ Kotlin Multiplatform Mobile documentation
 
 
 ## Kotlin Library
+
+- [ ] Collected
 
 https://github.com/Kotlin/kotlinx.coroutines
 Library support for Kotlin coroutines

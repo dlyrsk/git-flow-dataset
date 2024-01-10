@@ -4,6 +4,8 @@
 
 ### Main Repo List
 
+- [X] Collected
+
 https://github.com/matrix-org/synapse
 Synapse is an open-source Matrix homeserver written and maintained by the Matrix.org Foundation. We began rapid development in 2014, reaching v1.0.0 in 2019. Development on Synapse and the Matrix protocol itself continues in earnest today.
 
@@ -11,6 +13,8 @@ https://github.com/matrix-org/dendrite
 Dendrite is a second-generation Matrix homeserver written in Go. It intends to provide an efficient, reliable and scalable alternative to Synapse
 
 ### Dependency Library Repo List
+
+- [ ] Collected
 
 https://github.com/matrix-org/matrix-synapse-ldap3
 Allows synapse to use LDAP as a password provider.
@@ -25,6 +29,8 @@ https://github.com/matrix-org/gomatrixserverlib
 Go library for common functions needed by matrix servers.
 
 ### Standalone Components Repo List
+
+- [ ] Collected
 
 https://github.com/matrix-org/matrix.to
 Matrix.to is a simple url redirection service for the Matrix.org ecosystem which lets users share links to matrix entities without being tied to a specific app. Stylistically it serves as a landing page for rooms and communities.
@@ -54,6 +60,9 @@ https://github.com/matrix-org/seshat
 https://github.com/matrix-org/coap-proxy
 
 ### SDK Repo List
+
+- [ ] Collected
+
 https://github.com/matrix-org/matrix-js-sdk
 This is the Matrix Client-Server SDK for JavaScript and TypeScript. This SDK can be run in a browser or in Node.js.
 
@@ -83,6 +92,8 @@ https://github.com/matrix-org/matrix-react-sdk-module-api
 
 ### Extension Repo List
 
+- [ ] Collected
+
 https://github.com/matrix-org/synapse-s3-storage-provider
 This module can be used by synapse as a storage provider, allowing it to fetch and store media in Amazon S3.
 
@@ -90,6 +101,8 @@ https://github.com/matrix-org/matrix-appservice-bridge
 This library sits on top of the core application service library and provides an API for setting up bridges quickly.
 
 ### Integration Repo List
+
+- [ ] Collected
 
 https://github.com/matrix-org/matrix-appservice-discord
 A bridge between Matrix and Discord. Currently the bridge is in Beta and quite usable for everyday bridging, with one or two bugs cropping up.
@@ -122,6 +135,8 @@ https://github.com/matrix-org/matrix-appservice-verto
 
 ### Standalone App Repo List
 
+- [ ] Collected
+
 https://github.com/matrix-org/thirdroom
 Third Room is a platform for shared virtual worlds built on top of Matrix. Third Room aims to make it easy to discover, create, and share 3D worlds with others.
 
@@ -138,6 +153,8 @@ https://github.com/matrix-org/pantalaimon
 Pantalaimon is an end-to-end encryption aware Matrix reverse proxy daemon.
 
 ### Developer Tools
+
+- [ ] Collected
 
 https://github.com/matrix-org/netlify-pr-preview
 A Github Action for deploying a PR preview to Netlify with a github deployment from a workflow run
@@ -161,6 +178,9 @@ https://github.com/matrix-org/patience
 https://github.com/matrix-org/sonarcloud-workflow-action
 
 ### Documentation
+
+- [ ] Collected
+
 https://github.com/matrix-org/matrix-spec-proposals
 This repository contains proposals for changes to the Matrix Protocol, aka "Matrix Spec Changes" (MSCs).
 

@@ -1,1 +1,3 @@
 # Repo: Gogs
+
+- [X] Collected

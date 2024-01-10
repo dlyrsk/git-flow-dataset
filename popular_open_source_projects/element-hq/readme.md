@@ -4,6 +4,8 @@
 
 ### Main Repo List
 
+- [ ] Collected
+
 https://github.com/element-hq/element-web
 Element (formerly known as Vector and Riot) is a Matrix web client built using the Matrix React SDK.
 
@@ -36,6 +38,8 @@ Element Android P2P is an experimental version of the Element Android Matrix Cli
 
 ### Dependency Library Repo List
 
+- [ ] Collected
+
 https://github.com/element-hq/swift-ogg
 
 https://github.com/element-hq/logos
@@ -58,6 +62,8 @@ https://github.com/element-hq/compound-ios
 
 ### SDK Repo List
 
+- [ ] Collected
+
 https://github.com/element-hq/chatterbox
 Chatterbox lets you securely embed Hydrogen within any website.
 
@@ -65,6 +71,8 @@ https://github.com/element-hq/matrix-bot-sdk
 
 
 ### Standalone App Repo List
+
+- [ ] Collected
 
 https://github.com/element-hq/mautrix-telegram
 
@@ -80,6 +88,8 @@ https://github.com/element-hq/element-integration-manager
 
 ### Developer Tools
 
+- [ ] Collected
+
 https://github.com/element-hq/ess-starter-edition-core
 
 https://github.com/element-hq/element-builder
@@ -93,6 +103,8 @@ https://github.com/element-hq/tailscale-k8s
 https://github.com/element-hq/.github
 
 ### Documentation
+
+- [ ] Collected
 
 https://github.com/element-hq/roadmap
 
