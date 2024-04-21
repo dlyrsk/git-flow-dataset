@@ -1,0 +1,18 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{"owner": "atom", "repo": "atom"},
+			{"owner": "atom", "repo": "flight-manual.atom.io"},
+			{"owner": "atom", "repo": "atom.io"},
+			{"owner": "atom", "repo": "settings-view"},
+			{"owner": "atom", "repo": "teletype"},
+			{"owner": "atom", "repo": "vim-mode"},
+			{"owner": "atom", "repo": "node-keytar"},
+			{"owner": "atom", "repo": "apm"},
+			{"owner": "atom", "repo": "markdown-preview"},
+			{"owner": "atom", "repo": "github"},
+			{"owner": "atom", "repo": "autocomplete-plus"},
+			{"owner": "atom", "repo": "teletype-crdt"}
+		]
+	}
+}

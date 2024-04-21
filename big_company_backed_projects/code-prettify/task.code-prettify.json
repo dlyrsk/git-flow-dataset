@@ -1,0 +1,14 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{
+				"owner": "googlearchive",
+				"repo": "code-prettify"
+			},
+			{
+				"owner": "googlearchive",
+				"repo": "prettify-element"
+			}
+		]
+	}
+}

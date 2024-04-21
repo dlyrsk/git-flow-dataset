@@ -1,0 +1,15 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{"owner": "LSPosed", "repo": "LSPosed"},
+			{"owner": "LSPosed", "repo": "LSPatch"},
+			{"owner": "LSPosed", "repo": "LSPlant"},
+			{"owner": "LSPosed", "repo": "AndroidHiddenApiBypass"},
+			{"owner": "LSPosed", "repo": "MagiskOnWSALocal"},
+			{"owner": "LSPosed", "repo": "DexBuilder"},
+			{"owner": "LSPosed", "repo": "CorePatch"},
+			{"owner": "LSPosed", "repo": "WSA-Kernel-SU"},
+			{"owner": "LSPosed", "repo": "LSPosed.github.io"}
+		]
+	}
+}

@@ -13,6 +13,9 @@ The Kotlin Programming Language.
 
 - [ ] Collected
 
+https://github.com/JetBrains/compose-multiplatform
+Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+
 https://github.com/JetBrains/Exposed
 Exposed is a lightweight SQL library on top of JDBC driver for Kotlin language.
 

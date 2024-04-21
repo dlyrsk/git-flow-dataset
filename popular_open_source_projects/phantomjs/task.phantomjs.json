@@ -1,0 +1,10 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{
+				"owner": "ariya",
+				"repo": "phantomjs"
+			}
+		]
+	}
+}

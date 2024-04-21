@@ -1,0 +1,11 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{"owner": "eclipse-archived", "repo": "ceylon"},
+			{"owner": "eclipse-archived", "repo": "ceylon-sdk"},
+			{"owner": "eclipse-archived", "repo": "ceylon-ide-intellij"},
+			{"owner": "eclipse-archived", "repo": "ceylon-ide-eclipse"},
+			{"owner": "eclipse-archived", "repo": "ceylon-lang.org"}
+		]
+	}
+}

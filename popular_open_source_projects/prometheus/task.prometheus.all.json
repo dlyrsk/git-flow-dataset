@@ -1,0 +1,10 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{
+				"owner": "prometheus",
+				"repo": ".*"
+			}
+		]
+	}
+}

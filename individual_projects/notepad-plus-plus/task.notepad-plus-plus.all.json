@@ -1,0 +1,10 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{
+				"owner": "notepad-plus-plus",
+				"repo": "*"
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{"owner": "puppeteer", "repo": "puppeteer"},
+			{"owner": "puppeteer", "repo": "examples"},
+			{"owner": "puppeteer", "repo": "replay"},
+			{"owner": "puppeteer", "repo": "recorder"},
+			{"owner": "puppeteer", "repo": "pptr.dev"},
+			{"owner": "puppeteer", "repo": "ispuppeteerwebdriverbidiready"}
+		]
+	}
+}

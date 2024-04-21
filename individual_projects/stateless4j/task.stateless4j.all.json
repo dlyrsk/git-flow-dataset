@@ -1,0 +1,10 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{
+				"owner": "stateless4j",
+				"repo": "*"
+			}
+		]
+	}
+}

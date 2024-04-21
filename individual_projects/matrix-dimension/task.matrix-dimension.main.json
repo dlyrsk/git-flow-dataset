@@ -1,0 +1,14 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{
+				"owner": "turt2live",
+				"repo": "matrix-dimension"
+			},
+			{
+				"owner": "turt2live",
+				"repo": "matrix-sticker-manager"
+			}
+		]
+	}
+}
