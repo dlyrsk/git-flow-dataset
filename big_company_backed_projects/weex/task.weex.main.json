@@ -1,0 +1,13 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{"owner": "apache", "repo": "incubator-weex"},
+			{"owner": "apache", "repo": "incubator-weex-ui"},
+			{"owner": "apache", "repo": "incubator-weex-cli"},
+			{"owner": "apache", "repo": "incubator-weex-site"},
+			{"owner": "apache", "repo": "incubator-weex-loader"},
+			{"owner": "apache", "repo": "incubator-weex-playground"},
+			{"owner": "apache", "repo": "incubator-weex-android-compatible"}
+		]
+	}
+}
