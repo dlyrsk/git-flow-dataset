@@ -1,0 +1,22 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{
+				"owner": "octokit",
+				"repo": "octokit.js"
+			},
+			{
+				"owner": "octokit",
+				"repo": "octokit.rb"
+			},
+			{
+				"owner": "octokit",
+				"repo": "octokit.net"
+			},
+			{
+				"owner": "octokit",
+				"repo": "types.ts"
+			}
+		]
+	}
+}

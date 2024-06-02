@@ -1,3 +1,0 @@
-# Repo: Gitea
-
-- [X] Collected

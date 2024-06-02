@@ -1,0 +1,10 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{"owner": "mezz", "repo": "JustEnoughItems"},
+			{"owner": "mezz", "repo": "JEIAddons"},
+			{"owner": "mezz", "repo": "JustEnoughEffectDescriptions"},
+			{"owner": "mezz", "repo": "JustEnoughResources"}
+		]
+	}
+}

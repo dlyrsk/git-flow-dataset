@@ -1,0 +1,10 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{"owner": "SlimeKnights", "repo": "TinkersConstruct"},
+			{"owner": "SlimeKnights", "repo": "Mantle"},
+			{"owner": "SlimeKnights", "repo": "TinkersThings"},
+			{"owner": "SlimeKnights", "repo": "TinkersMechworks"}
+		]
+	}
+}

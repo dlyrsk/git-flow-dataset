@@ -1,0 +1,12 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{"owner": "apache", "repo": "mxnet"},
+			{"owner": "apache", "repo": "mxnet-site"},
+			{"owner": "apache", "repo": "mxnet-ci"},
+			{"owner": "apache", "repo": "mxnet-test"},
+			{"owner": "apache", "repo": "mxnet-examples"},
+			{"owner": "apache", "repo": "mxnet-events"}
+		]
+	}
+}

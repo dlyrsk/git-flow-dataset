@@ -4,18 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "46c27c68e275d9ec",
+        "id": "4ab51a08c686891f",
         "type": "tabs",
         "children": [
           {
-            "id": "35f7f8affe7f4f88",
+            "id": "de683707392667a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topic/archived-project.md",
+                "file": "topic/language/c.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "51a341ca2a2b4ef5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "topic/language/php.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ceee245aaa6670c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a12328fa1800af11",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "topic/language/c.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
               }
             }
           }
@@ -85,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "topic/archived-project.md",
+                "file": "topic/language/c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "topic/archived-project.md",
+                "file": "topic/language/c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "topic/archived-project.md"
+                "file": "topic/language/c.md"
               }
             }
           }
@@ -146,29 +199,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35f7f8affe7f4f88",
+  "active": "de683707392667a4",
   "lastOpenFiles": [
-    "popular_open_source_projects/mask_rcnn/readme.md",
-    "popular_open_source_projects/lsposed/readme.md",
-    "topic/archived-project.md",
-    "popular_open_source_projects/mask_rcnn",
-    "popular_open_source_projects/docopt/readme.md",
+    "popular_open_source_projects/symless-synergy/symless-synergy.md",
+    "popular_open_source_projects/quiltmc/quiltmc.md",
+    "popular_open_source_projects/prometheus/prometheus.md",
+    "popular_open_source_projects/phantomjs/phantomjs.md",
+    "popular_open_source_projects/owncloud/owncloud.md",
+    "popular_open_source_projects/nvm/nvm.md",
+    "popular_open_source_projects/nextcloud/nextcloud.md",
+    "topic/language/php.md",
+    "topic/language/cuda.md",
+    "popular_open_source_projects/neoforged/neoforge.md",
+    "popular_open_source_projects/mxnet/mxnet.md",
+    "topic/language/jupyter-notebook.md",
+    "topic/language/tex.md",
+    "popular_open_source_projects/minecraftforge/MinecraftForge.md",
+    "popular_open_source_projects/matterport_mask_rcnn/matterport_mask_rcnn.md",
+    "popular_open_source_projects/matrix-org/matrix-server.md",
+    "popular_open_source_projects/lsposed/lsposed.md",
+    "popular_open_source_projects/jabref/jebref.md",
+    "popular_open_source_projects/input-leap/input-leap.md",
+    "topic/language/groovy.md",
+    "popular_open_source_projects/highlightjs/highlightjs.md",
+    "popular_open_source_projects/gogs/gogs.md",
+    "popular_open_source_projects/go-gitea/gitea.md",
+    "popular_open_source_projects/gin-gonic/gin-gonic.md",
+    "popular_open_source_projects/fabricmc/fabricmc.md",
+    "popular_open_source_projects/forgejo/forgejo.md",
+    "topic/language",
+    "tag/Untitled",
+    "big_company_backed_projects/mozilla-notes",
+    "popular_open_source_projects/matterport_mask_rcnn",
     "popular_open_source_projects/docopt",
-    "big_company_backed_projects/microsoft-windows-redis/readme.md",
-    "individual_projects/matrix-dimension/readme.md",
-    "popular_open_source_projects/highlightjs/readme.md",
-    "popular_open_source_projects/apache-logging/readme.md",
-    "popular_open_source_projects/gogs/readme.md",
     "popular_open_source_projects/highlightjs/task.highlightjs.all.json",
     "popular_open_source_projects/highlightjs/task.gogs.all.json",
     "popular_open_source_projects/highlightjs",
-    "big_company_backed_projects/weex/readme.md",
     "big_company_backed_projects/weex/task.weex.main.json",
-    "big_company_backed_projects/weex/task.vscode.main.json",
-    "big_company_backed_projects/weex",
-    "big_company_backed_projects/vscode/readme.md",
-    "big_company_backed_projects/vscode/task.vscode.main.json",
-    "big_company_backed_projects/puppeteer/readme.md",
-    "big_company_backed_projects/vscode/task.puppeteer.main.json"
+    "big_company_backed_projects/weex/task.vscode.main.json"
   ]
 }

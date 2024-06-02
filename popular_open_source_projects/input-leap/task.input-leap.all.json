@@ -1,0 +1,7 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{"owner": "input-leap", "repo": ".*"}
+		]
+	}
+}

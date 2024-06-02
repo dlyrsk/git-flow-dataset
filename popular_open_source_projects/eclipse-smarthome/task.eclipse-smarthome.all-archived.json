@@ -1,0 +1,10 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{"owner": "eclipse-archived", "repo": "smarthome"},
+			{"owner": "eclipse-archived", "repo": "smarthome-designer"},
+			{"owner": "eclipse-archived", "repo": "smarthome.osgi-ri.enocean"},
+			{"owner": "eclipse-archived", "repo": "smarthome-packaging-sample"}
+		]
+	}
+}

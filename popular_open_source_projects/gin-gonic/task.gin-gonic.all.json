@@ -1,0 +1,7 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{"owner": "gin-gonic", "repo": ".*"}
+		]
+	}
+}
