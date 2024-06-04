@@ -1,0 +1,8 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{"owner": "neoforged", "repo": "NeoForge"},
+			{"owner": "neoforged", "repo": "NeoGradle"}
+		]
+	}
+}

@@ -7,14 +7,20 @@
 
 - [ ] Collected
 
-https://github.com/FabricMC/fabric
-Essential hooks for modding with Fabric.
-
 https://github.com/FabricMC/fabric-loader
 Fabric's mostly-version-independent mod loader.
 
+https://github.com/FabricMC/fabric
+Essential hooks for modding with Fabric.
+
 https://github.com/FabricMC/fabric-loom
 Gradle build system plugin used to automate the setup of a minecraft mod development environment.
+
+https://github.com/FabricMC/fabric-example-mod
+Example Fabric mod
+
+https://github.com/FabricMC/yarn
+Libre Minecraft mappings, free to use for everyone. No exceptions.
 
 ### Tool Repo List
 
@@ -35,14 +41,6 @@ A skeleton java code generator used to generate javadoc for yarn
 
 https://github.com/FabricMC/fabric-mixin-compile-extensions
 Extensions for Mixin's annotation processor.
-
-### Developer Repo List
-
-https://github.com/FabricMC/yarn
-Libre Minecraft mappings, free to use for everyone. No exceptions.
-
-https://github.com/FabricMC/fabric-example-mod
-Example Fabric mod
 
 ### Documentation Repo List
 

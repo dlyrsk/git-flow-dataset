@@ -1,0 +1,11 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{"owner": "FabricMC", "repo": "fabric-loader"},
+			{"owner": "FabricMC", "repo": "fabric"},
+			{"owner": "FabricMC", "repo": "fabric-loom"},
+			{"owner": "FabricMC", "repo": "fabric-example-mod"},
+			{"owner": "FabricMC", "repo": "yarn"}
+		]
+	}
+}

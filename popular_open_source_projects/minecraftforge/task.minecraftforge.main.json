@@ -1,0 +1,8 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{"owner": "MinecraftForge", "repo": "MinecraftForge"},
+			{"owner": "MinecraftForge", "repo": "ForgeGradle"}
+		]
+	}
+}

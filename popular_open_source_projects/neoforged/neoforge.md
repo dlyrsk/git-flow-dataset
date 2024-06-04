@@ -10,10 +10,10 @@
 https://github.com/neoforged/NeoForge
 Neo Modding API for Minecraft, based on Forge
 
-### Component Repo List
-
 https://github.com/neoforged/NeoGradle
 Gradle plugin for NeoForge development
+
+### Component Repo List
 
 https://github.com/neoforged/GradleUtils
 Gradle buildscript utility library for NeoForged projects

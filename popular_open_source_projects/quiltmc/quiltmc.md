@@ -13,16 +13,22 @@ The loader for Quilt mods.
 https://github.com/QuiltMC/quilt-standard-libraries
 A set of libraries to assist in making Quilt mods.
 
+https://github.com/QuiltMC/quilt-loom
+quilt-loom
+
 https://github.com/QuiltMC/quilted-fabric-api
 Re-implementation of the Fabric API using QSL as implementation instead.
+
+https://github.com/QuiltMC/quilt-template-mod
+Official Quilt template mod.
+
+https://github.com/QuiltMC/quilt-mappings
+Quilt's Mappings for Minecraft
 
 ### Tool Repo List
 
 https://github.com/QuiltMC/quilt-kotlin-libraries
 Quilt's official Kotlin libraries, which provide wrappers for QSL and Minecraft to ease development in Kotlin
-
-https://github.com/QuiltMC/quilt-mappings
-Quilt's Mappings for Minecraft
 
 https://github.com/QuiltMC/chasm
 Chasm is a java bytecode transformer designed to handle collision between transformers wherever possible.
@@ -33,9 +39,6 @@ The installer for quilt-loader
 https://github.com/QuiltMC/quilt-config
 Quilt Config is a library designed to facilitate the creation and management of config files.
 
-https://github.com/QuiltMC/quilt-loom
-quilt-loom
-
 https://github.com/QuiltMC/quilt-installer
 The Quilt installer for the official Minecraft launcher and servers
 
@@ -43,9 +46,6 @@ https://github.com/QuiltMC/chasm-gradle-plugin
 A Gradle plugin for the Chasm bytecode transformer
 
 ### Developer Repo List
-
-https://github.com/QuiltMC/quilt-template-mod
-Official Quilt template mod.
 
 https://github.com/QuiltMC/quilt-kotlin-template-mod
 Official Quilt Kotlin Template mod.

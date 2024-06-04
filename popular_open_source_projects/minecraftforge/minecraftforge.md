@@ -10,10 +10,10 @@
 https://github.com/MinecraftForge/MinecraftForge
 Modifications to the Minecraft base files to assist in compatibility between mods. 
 
-### Component Repo List
-
 https://github.com/MinecraftForge/ForgeGradle
 Minecraft mod development framework used by Forge and FML for the gradle build system
+
+### Component Repo List
 
 https://github.com/MinecraftForge/SecureModules
 Adding CodeSigner support to JPMS.

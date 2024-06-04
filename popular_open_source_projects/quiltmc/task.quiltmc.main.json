@@ -1,0 +1,12 @@
+{
+	"collectTask": {
+		"repositoryList": [
+			{"owner": "QuiltMC", "repo": "quilt-loader"},
+			{"owner": "QuiltMC", "repo": "quilt-standard-libraries"},
+			{"owner": "QuiltMC", "repo": "quilt-loom"},
+			{"owner": "QuiltMC", "repo": "quilted-fabric-api"},
+			{"owner": "QuiltMC", "repo": "quilt-template-mod"},
+			{"owner": "QuiltMC", "repo": "quilt-mappings"}
+		]
+	}
+}
