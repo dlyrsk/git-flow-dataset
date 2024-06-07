@@ -1,0 +1,16 @@
+{
+	"projectDatasetDefinition": {
+		"projectDatasetName": "owncloud_featured-plugin",
+		"scopedDatabaseConnection": "data/owncloud_featured-plugin.db"
+	},
+	"collectTask": {
+		"repositoryList": [
+			{"owner": "owncloud", "repo": "calendar"},
+			{"owner": "owncloud-archive", "repo": "calendar"},
+			{"owner": "owncloud", "repo": "contacts"},
+			{"owner": "owncloud-archive", "repo": "contacts"},
+			{"owner": "owncloud", "repo": "notes"},
+			{"owner": "owncloud", "repo": "tasks"}
+		]
+	}
+}

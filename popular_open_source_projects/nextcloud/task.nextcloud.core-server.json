@@ -1,0 +1,13 @@
+{
+	"projectDatasetDefinition": {
+		"projectDatasetName": "nextcloud_core-server",
+		"scopedDatabaseConnection": "data/nextcloud_core-server.db"
+	},
+	"collectTask": {
+		"repositoryList": [
+			{"owner": "nextcloud", "repo": "server"},
+			{"owner": "nextcloud", "repo": "all-in-one"},
+			{"owner": "nextcloud", "repo": "docker"}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"projectDatasetDefinition": {
+		"projectDatasetName": "nextcloud_desktop-client",
+		"scopedDatabaseConnection": "data/nextcloud_desktop-client.db"
+	},
+	"collectTask": {
+		"repositoryList": [
+			{"owner": "nextcloud", "repo": "desktop"},
+			{"owner": "nextcloud", "repo": "spreed"}
+		]
+	}
+}

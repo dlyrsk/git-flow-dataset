@@ -1,0 +1,12 @@
+{
+	"projectDatasetDefinition": {
+		"projectDatasetName": "owncloud_core-server",
+		"scopedDatabaseConnection": "data/owncloud_core-server.db"
+	},
+	"collectTask": {
+		"repositoryList": [
+			{"owner": "owncloud", "repo": "core"},
+			{"owner": "owncloud", "repo": "ocis"}
+		]
+	}
+}

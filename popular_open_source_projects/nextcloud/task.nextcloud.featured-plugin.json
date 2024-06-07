@@ -1,0 +1,14 @@
+{
+	"projectDatasetDefinition": {
+		"projectDatasetName": "nextcloud_featured-plugin",
+		"scopedDatabaseConnection": "data/nextcloud_featured-plugin.db"
+	},
+	"collectTask": {
+		"repositoryList": [
+			{"owner": "nextcloud", "repo": "calendar"},
+			{"owner": "nextcloud", "repo": "contacts"},
+			{"owner": "nextcloud", "repo": "notes"},
+			{"owner": "nextcloud", "repo": "tasks"}
+		]
+	}
+}

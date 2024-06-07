@@ -1,4 +1,8 @@
 {
+	"projectDatasetDefinition": {
+		"projectDatasetName": "cameri_nostream",
+		"scopedDatabaseConnection": "data/cameri_nostream.db"
+	},
 	"collectTask": {
 		"repositoryList": [
 			{

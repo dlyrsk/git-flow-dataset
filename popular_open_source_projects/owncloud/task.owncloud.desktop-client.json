@@ -1,0 +1,12 @@
+{
+	"projectDatasetDefinition": {
+		"projectDatasetName": "owncloud_desktop-client",
+		"scopedDatabaseConnection": "data/owncloud_desktop-client.db"
+	},
+	"collectTask": {
+		"repositoryList": [
+			{"owner": "owncloud", "repo": "client"},
+			{"owner": "owncloud", "repo": "web"}
+		]
+	}
+}

@@ -10,21 +10,53 @@
 https://github.com/owncloud/core
 ownCloud web server core (Files, DAV, etc.)
 
-### Main Repo List
+https://github.com/owncloud/ocis
+ownCloud Infinite Scale (oCIS) is the new file sync & share platform that will be the foundation of your data management platform.
+
+### Mobile Client Repo List
 
 - [ ] Collected
 
 https://github.com/owncloud/android
-
-https://github.com/owncloud/client
-
-https://github.com/owncloud/ocis
+The ownCloud Android App
 
 https://github.com/owncloud/ios-legacy
-
-https://github.com/owncloud/web
+iOS app for ownCloud
 
 https://github.com/owncloud/ios-app
+The all-new iOS app for ownCloud
+
+### Desktop Client Repo List
+
+- [ ] Collected
+
+https://github.com/owncloud/client
+Desktop Syncing Client for ownCloud
+
+https://github.com/owncloud/web
+🐲 Next generation frontend for ownCloud Infinite Scale
+
+### Featured Plugin Repo List
+
+- [ ] Collected
+
+https://github.com/owncloud/calendar
+Calendar app for ownCloud. This is the new calendar app that has replaced the old calendar app, and is only the frontend for the new server-integrated CalDAV-Backend.
+
+https://github.com/owncloud-archive/calendar
+The ownCloud calendar app
+
+https://github.com/owncloud/contacts
+Manage your CardDAV contacts from a feature-rich web-interface. This is the new contacts app that has replaced the old contacts app, and is only the frontend for the new server-integrated CardDAV-Backend.
+
+https://github.com/owncloud-archive/contacts
+The Contacts app
+
+https://github.com/owncloud/notes
+Notes app for ownCloud
+
+https://github.com/owncloud/tasks
+Tasks app for ownCloud
 
 ### Plugin Repo List
 
@@ -32,17 +64,9 @@ https://github.com/owncloud/ios-app
 
 https://github.com/owncloud/music
 
-https://github.com/owncloud/notes
-
-https://github.com/owncloud/tasks
-
-https://github.com/owncloud/calendar
-
 https://github.com/owncloud/richdocuments
 
 https://github.com/owncloud/gallery
-
-https://github.com/owncloud/contacts
 
 https://github.com/owncloud/files_antivirus
 
