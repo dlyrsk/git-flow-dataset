@@ -1,7 +1,7 @@
 {
 	"projectDatasetDefinition": {
-		"projectDatasetName": "nextcloud_core-server",
-		"scopedDatabaseConnection": "data/nextcloud_core-server.db"
+		"projectDatasetName": "nextcloud_mobile-client",
+		"scopedDatabaseConnection": "data/nextcloud_mobile-client.db"
 	},
 	"collectTask": {
 		"repositoryList": [
