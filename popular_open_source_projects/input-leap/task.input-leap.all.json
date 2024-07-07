@@ -1,7 +1,14 @@
 {
+	"projectDatasetDefinition": {
+		"projectDatasetName": "input-leap_all",
+		"scopedDatabaseConnection": "data/input-leap_all.db"
+	},
 	"collectTask": {
 		"repositoryList": [
-			{"owner": "input-leap", "repo": ".*"}
+			{
+				"owner": "input-leap",
+				"repo": ".*"
+			}
 		]
 	}
 }

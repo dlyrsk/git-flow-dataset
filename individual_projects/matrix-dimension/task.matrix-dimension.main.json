@@ -1,4 +1,8 @@
 {
+	"projectDatasetDefinition": {
+		"projectDatasetName": "turt2live_matrix-dimenstion_main",
+		"scopedDatabaseConnection": "data/turt2live_matrix-dimenstion_main.db"
+	},
 	"collectTask": {
 		"repositoryList": [
 			{

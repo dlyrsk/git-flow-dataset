@@ -1,4 +1,8 @@
 {
+	"projectDatasetDefinition": {
+		"projectDatasetName": "microsoft_redis",
+		"scopedDatabaseConnection": "data/microsoft_redis.db"
+	},
 	"collectTask": {
 		"repositoryList": [
 			{

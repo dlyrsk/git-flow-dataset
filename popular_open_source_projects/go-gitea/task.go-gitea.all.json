@@ -1,4 +1,8 @@
 {
+	"projectDatasetDefinition": {
+		"projectDatasetName": "go-gitea_all",
+		"scopedDatabaseConnection": "data/go-gitea_all.db"
+	},
 	"collectTask": {
 		"repositoryList": [
 			

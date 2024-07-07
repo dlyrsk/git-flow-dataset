@@ -1,4 +1,8 @@
 {
+	"projectDatasetDefinition": {
+		"projectDatasetName": "apache_incubator_weex_main",
+		"scopedDatabaseConnection": "data/apache_incubator_weex_main.db"
+	},
 	"collectTask": {
 		"repositoryList": [
 			{"owner": "apache", "repo": "incubator-weex"},

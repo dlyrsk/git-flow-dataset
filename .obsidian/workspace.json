@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topic/language/c.md",
+                "file": "topic/abandoned-project-list.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "topic/language/c.md",
+                "file": "topic/abandoned-project-list.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "topic/language/c.md",
+                "file": "topic/abandoned-project-list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "topic/language/c.md",
+                "file": "topic/abandoned-project-list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "topic/language/c.md"
+                "file": "topic/abandoned-project-list.md"
               }
             }
           }
@@ -201,6 +201,9 @@
   },
   "active": "de683707392667a4",
   "lastOpenFiles": [
+    "topic/active-fork-project.md",
+    "topic/category/officially-abandoned-project.md",
+    "topic/language/c.md",
     "popular_open_source_projects/symless-synergy/symless-synergy.md",
     "popular_open_source_projects/quiltmc/quiltmc.md",
     "popular_open_source_projects/prometheus/prometheus.md",
@@ -224,9 +227,6 @@
     "popular_open_source_projects/highlightjs/highlightjs.md",
     "popular_open_source_projects/gogs/gogs.md",
     "popular_open_source_projects/go-gitea/gitea.md",
-    "popular_open_source_projects/gin-gonic/gin-gonic.md",
-    "popular_open_source_projects/fabricmc/fabricmc.md",
-    "popular_open_source_projects/forgejo/forgejo.md",
     "topic/language",
     "tag/Untitled",
     "big_company_backed_projects/mozilla-notes",

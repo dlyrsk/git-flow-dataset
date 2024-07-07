@@ -1,4 +1,8 @@
 {
+	"projectDatasetDefinition": {
+		"projectDatasetName": "gin-gonic_all",
+		"scopedDatabaseConnection": "data/gin-gonic_all.db"
+	},
 	"collectTask": {
 		"repositoryList": [
 			{"owner": "gin-gonic", "repo": ".*"}

@@ -1,4 +1,8 @@
 {
+	"projectDatasetDefinition": {
+		"projectDatasetName": "apache-logging_main",
+		"scopedDatabaseConnection": "data/apache-logging_main.db"
+	},
 	"collectTask": {
 		"repositoryList": [
 			[

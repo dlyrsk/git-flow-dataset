@@ -1,4 +1,8 @@
 {
+	"projectDatasetDefinition": {
+		"projectDatasetName": "mezz_justenoughitems_main",
+		"scopedDatabaseConnection": "data/mezz_justenoughitems_main.db"
+	},
 	"collectTask": {
 		"repositoryList": [
 			{"owner": "mezz", "repo": "JustEnoughItems"},

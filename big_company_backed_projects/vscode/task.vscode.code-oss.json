@@ -1,0 +1,14 @@
+{
+	"projectDatasetDefinition": {
+		"projectDatasetName": "vscode_code-oss",
+		"scopedDatabaseConnection": "data/vscode_code-oss.db"
+	},
+	"collectTask": {
+		"repositoryList": [
+			{
+				"owner": "microsoft",
+				"repo": "vscode"
+			}
+		]
+	}
+}

@@ -1,4 +1,8 @@
 {
+	"projectDatasetDefinition": {
+		"projectDatasetName": "gogs_all",
+		"scopedDatabaseConnection": "data/gogs_all.db"
+	},
 	"collectTask": {
 		"repositoryList": [
 			{

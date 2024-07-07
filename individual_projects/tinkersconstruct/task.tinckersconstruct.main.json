@@ -1,4 +1,8 @@
 {
+	"projectDatasetDefinition": {
+		"projectDatasetName": "slimeknights_tinkersconstruct_main",
+		"scopedDatabaseConnection": "data/slimeknights_tinkersconstruct_main.db"
+	},
 	"collectTask": {
 		"repositoryList": [
 			{"owner": "SlimeKnights", "repo": "TinkersConstruct"},

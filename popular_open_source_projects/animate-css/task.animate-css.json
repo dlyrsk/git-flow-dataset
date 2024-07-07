@@ -1,0 +1,14 @@
+{
+	"projectDatasetDefinition": {
+		"projectDatasetName": "animate-css",
+		"scopedDatabaseConnection": "data/animate-css.db"
+	},
+	"collectTask": {
+		"repositoryList": [
+			{
+				"owner": "animate-css",
+				"repo": "animate.css"
+			}
+		]
+	}
+}

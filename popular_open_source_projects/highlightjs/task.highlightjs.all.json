@@ -1,5 +1,14 @@
 {
+	"projectDatasetDefinition": {
+		"projectDatasetName": "highlightjs_all",
+		"scopedDatabaseConnection": "data/highlightjs_all.db"
+	},
 	"collectTask": {
 		"repositoryList": [
+			{
+				"owner": "highlightjs",
+				"repo": ".*"
+			}
+		]
 	}
 }

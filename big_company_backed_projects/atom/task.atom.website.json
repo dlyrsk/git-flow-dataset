@@ -1,0 +1,12 @@
+{
+	"projectDatasetDefinition": {
+		"projectDatasetName": "atom_website",
+		"scopedDatabaseConnection": "data/atom_website.db"
+	},
+	"collectTask": {
+		"repositoryList": [
+			{"owner": "atom", "repo": "flight-manual.atom.io"},
+			{"owner": "atom", "repo": "atom.io"}
+		]
+	}
+}

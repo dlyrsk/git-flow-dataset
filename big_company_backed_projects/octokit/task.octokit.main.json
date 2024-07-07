@@ -1,4 +1,8 @@
 {
+	"projectDatasetDefinition": {
+		"projectDatasetName": "octokit_main",
+		"scopedDatabaseConnection": "data/octokit_main.db"
+	},
 	"collectTask": {
 		"repositoryList": [
 			{

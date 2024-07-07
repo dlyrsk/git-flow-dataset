@@ -1,4 +1,8 @@
 {
+	"projectDatasetDefinition": {
+		"projectDatasetName": "lsposed_main",
+		"scopedDatabaseConnection": "data/lsposed_main.db"
+	},
 	"collectTask": {
 		"repositoryList": [
 			{"owner": "LSPosed", "repo": "LSPosed"},

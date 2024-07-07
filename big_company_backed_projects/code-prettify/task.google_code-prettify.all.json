@@ -1,4 +1,8 @@
 {
+	"projectDatasetDefinition": {
+		"projectDatasetName": "google_code-prettify_all",
+		"scopedDatabaseConnection": "data/google_code-prettify_all.db"
+	},
 	"collectTask": {
 		"repositoryList": [
 			{

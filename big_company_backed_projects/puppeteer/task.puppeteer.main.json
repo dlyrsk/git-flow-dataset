@@ -1,4 +1,8 @@
 {
+	"projectDatasetDefinition": {
+		"projectDatasetName": "puppeteer_main",
+		"scopedDatabaseConnection": "data/puppeteer_main.db"
+	},
 	"collectTask": {
 		"repositoryList": [
 			{"owner": "puppeteer", "repo": "puppeteer"},

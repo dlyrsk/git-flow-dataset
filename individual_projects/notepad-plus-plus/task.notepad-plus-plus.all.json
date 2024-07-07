@@ -1,4 +1,8 @@
 {
+	"projectDatasetDefinition": {
+		"projectDatasetName": "notepad-plus-plus_all",
+		"scopedDatabaseConnection": "data/notepad-plus-plus_all.db"
+	},
 	"collectTask": {
 		"repositoryList": [
 			{

@@ -1,4 +1,8 @@
 {
+	"projectDatasetDefinition": {
+		"projectDatasetName": "fabricmc_main",
+		"scopedDatabaseConnection": "data/fabricmc_main.db"
+	},
 	"collectTask": {
 		"repositoryList": [
 			{"owner": "FabricMC", "repo": "fabric-loader"},

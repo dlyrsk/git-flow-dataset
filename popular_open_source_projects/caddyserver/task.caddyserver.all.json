@@ -1,4 +1,8 @@
 {
+	"projectDatasetDefinition": {
+		"projectDatasetName": "caddyserver_all",
+		"scopedDatabaseConnection": "data/caddyserver_all.db"
+	},
 	"collectTask": {
 		"repositoryList": [
 			{

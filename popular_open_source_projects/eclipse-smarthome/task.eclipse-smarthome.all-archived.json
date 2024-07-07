@@ -1,4 +1,8 @@
 {
+	"projectDatasetDefinition": {
+		"projectDatasetName": "eclipse_smarthome_all-archived",
+		"scopedDatabaseConnection": "data/eclipse_smarthome_all-archived.db"
+	},
 	"collectTask": {
 		"repositoryList": [
 			{"owner": "eclipse-archived", "repo": "smarthome"},

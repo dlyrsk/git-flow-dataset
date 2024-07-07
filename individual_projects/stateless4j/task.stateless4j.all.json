@@ -1,4 +1,8 @@
 {
+	"projectDatasetDefinition": {
+		"projectDatasetName": "stateless4j_all",
+		"scopedDatabaseConnection": "data/stateless4j_all.db"
+	},
 	"collectTask": {
 		"repositoryList": [
 			{

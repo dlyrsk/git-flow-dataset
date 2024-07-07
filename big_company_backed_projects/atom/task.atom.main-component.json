@@ -1,0 +1,17 @@
+{
+	"projectDatasetDefinition": {
+		"projectDatasetName": "atom_main-component",
+		"scopedDatabaseConnection": "data/atom_main-component.db"
+	},
+	"collectTask": {
+		"repositoryList": [
+			{"owner": "atom", "repo": "teletype"},
+			{"owner": "atom", "repo": "vim-mode"},
+			{"owner": "atom", "repo": "node-keytar"},
+			{"owner": "atom", "repo": "markdown-preview"},
+			{"owner": "atom", "repo": "github"},
+			{"owner": "atom", "repo": "autocomplete-plus"},
+			{"owner": "atom", "repo": "teletype-crdt"}
+		]
+	}
+}
